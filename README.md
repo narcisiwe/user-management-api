@@ -22,6 +22,11 @@ Microsoft Copilot was used to help generate the initial API structure, debug rou
 
 ```bash
 dotnet run
+```
 
 ## Then open Swagger:
 https://localhost:xxxx/swagger
+
+
+
+
